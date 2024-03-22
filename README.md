@@ -6,6 +6,9 @@ To contribute to the success of business by utilizing data analysis techniques, 
 
 ![image](https://github.com/yash733/Super-Store-Sales-Data-Forecast/assets/100533686/0da5c5ab-f628-4b59-9ace-d10e2e148e13)
 
+![image](https://github.com/yash733/Super-Store-Sales-Data-Forecast/assets/100533686/b47702a1-7ae0-46f2-a316-441a13c2ea4a)
+![image](https://github.com/yash733/Super-Store-Sales-Data-Forecast/assets/100533686/8542389f-6dba-44d8-b91b-4f69e9e646eb)
+
 # Description #
 The objective can be broken down into the following detailed components:
 1. Dashboard Creation: Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity.
